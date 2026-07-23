@@ -1,12 +1,12 @@
 {
   "name": "LABCRAFT",
   "short_name": "LABCRAFT",
-  "description": "Lab tools - EPG, Atlas, Timers, Chemical Workspace",
+  "description": "Lab tools - EPG, Timers, Chemical Workspace",
   "start_url": "./index.html",
   "id": "/labcraft/index.html",
   "display": "fullscreen",
-  "background_color": "#e8f5ec",
-  "theme_color": "#90d4a0",
+  "background_color": "#f5f0fc",
+  "theme_color": "#c4b5fd",
   "orientation": "portrait",
   "icons": [
     {
